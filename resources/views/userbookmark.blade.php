@@ -106,7 +106,7 @@
         <th style="width:10%: center"><a href="{{ $value->url}}" >{{ $value->url}}</a> </th>
         <th style="width:10%: center">{{ $value->name}} </th>
         <th style="width:10%: center">{{ $value->description}} </th>
-        <th style="width:10%: center"><image height="80px" weight="80px" src="{{asset('/storage/images/bookmarks/'.$value->image)}} "}}></th>
+        <th style="width:10%: center">  <img height="100px" width="100px" src="{{Storage::url($value->image)}}" /></th>
 
     </tr>
     @endforeach
