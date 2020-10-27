@@ -1,3 +1,39 @@
+![Screenshot_1](https://user-images.githubusercontent.com/48466124/97301617-67fdf600-1871-11eb-8f06-84ab5caad8a6.png)
+Welcome page
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/48466124/97301458-3be27500-1871-11eb-9ce1-7e1da48880f9.png)
+My bookmarks
+
+
+![Screenshot_4](https://user-images.githubusercontent.com/48466124/97301566-5a487080-1871-11eb-8ffa-b18100a56e7d.png)
+Login
+
+
+![Screenshot_5](https://user-images.githubusercontent.com/48466124/97301768-9e3b7580-1871-11eb-8e15-116b2b2d8f06.png)
+![Screenshot_6](https://user-images.githubusercontent.com/48466124/97301777-9f6ca280-1871-11eb-94c2-84720c34af28.png)
+Register and validation
+
+
+![Screenshot_7](https://user-images.githubusercontent.com/48466124/97301782-a09dcf80-1871-11eb-9400-c1b5151c54e6.png)
+![Screenshot_8](https://user-images.githubusercontent.com/48466124/97301784-a1366600-1871-11eb-8618-d721213d5ff1.png)
+See other users and them bookmarks
+
+
+![Screenshot_9](https://user-images.githubusercontent.com/48466124/97301793-a3002980-1871-11eb-858a-f702ab9ffd1a.png)
+![Screenshot_10](https://user-images.githubusercontent.com/48466124/97301803-a4315680-1871-11eb-8ace-98b5eb5ac9c6.png)
+![Screenshot_11](https://user-images.githubusercontent.com/48466124/97301804-a4c9ed00-1871-11eb-89a8-aa2c4daf1128.png)
+Homepage
+
+![Screenshot_13](https://user-images.githubusercontent.com/48466124/97302173-228df880-1872-11eb-8f49-8f2a2f47ca07.png)
+Add modal button
+
+![Screenshot_12](https://user-images.githubusercontent.com/48466124/97301807-a4c9ed00-1871-11eb-8243-c9f352d2708c.png)
+Edit Page
+
+![Screenshot_15](https://user-images.githubusercontent.com/48466124/97302454-8d3f3400-1872-11eb-9b3a-2c559ed8a6a4.png)
+Database
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
