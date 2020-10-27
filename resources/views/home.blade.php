@@ -26,18 +26,20 @@
                             type="button"
                             name="button">Add Bookmark
                         </button>
-                        <h3>My Bookmarks</h3>
-                        <div class="container">
+
+                        <h3>My Bookmarks</h3>    @foreach($bookmarks as $bookmarks)
                             <div class="row">
                                 <div class="col">
-                                        @foreach($bookmarks as $bookmarks)
+
                                                 <a href="{{$bookmarks->url}}" target="_blank"
                                                    style="position: absolute">{{$bookmarks->name}} </a></div>
                                 <div class="col"> <span class="label label-default"
                                                            style="position: absolute;margin-left:30%">{{$bookmarks->description}}</span></div>
-                                <div class="col"> <span class="label label-default"
-                                                        style="position: absolute;margin-left:60%"><img height="50px" width="50px" src="{{Storage::url($bookmarks->image)}}" /></span></div>
-                                <div class="col"><span class="pull-right button-group">
+                                <div class="col">
+                                    <span class="label label-default"
+                                                        style="position: absolute;margin-left:60%"><img height='70%'width="70%" src="{{Storage::url($bookmarks->image)}}" /></span></div>
+                                <div class="col">
+                                    <span class="pull-right button-group">
 
                               <button data-id="{{$bookmarks->id}}" type="button" class="delete-bookmark btn btn-danger"
                                       name="button" style="float:right;">Delete</button>
@@ -48,10 +50,12 @@
                               <a href="{{url('edit-bookmark/'.$bookmarks->id)}}" data-id="{{$bookmarks->id}}" type="button" class="btn btn-warning"
                                  name="button1" style="float:right;margin-right: 10px">Edit</a>
 
-                                </span></div>
+                                </span>
+                                </div>
                             </div>
+                                                     <br/>
                             @endforeach
-                        </ul>
+
                     </div>
                 </div>
             </div>
